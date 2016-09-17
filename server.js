@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 var articles={
-    'articl-one':{
+    'article-one':{
         title:'Article One | Nithesh Raaj',
         heading:'Article One',
         date:'Sep 18, 2016',
